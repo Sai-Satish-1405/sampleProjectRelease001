@@ -1,3 +1,3 @@
 # sampleProjectRelease001
-SampleProject for Testing
+SampleProject for testing
 
